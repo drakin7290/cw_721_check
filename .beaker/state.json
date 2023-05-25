@@ -1,0 +1,34 @@
+{
+  "euphoria": {
+    "cw721-factory": {
+      "code_id": 236,
+      "addresses": {
+        "Aura_NFT": "aura1antu4zlsdvt7d6p8gscw5le5z96ngzg6lfr7fdeqyxqfa5yvhlssyu9z0z"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    },
+    "cw721_factory": {
+      "code_id": 835,
+      "addresses": {
+        "Tien": "aura15z3h86hrdgs89rq5av9sqyltfadelc499nqs6qfwa5cgkrx2r6uqday0us"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  },
+  "serenity": {
+    "cw721-factory": {
+      "code_id": 605,
+      "addresses": {
+        "cw721_factory": "aura1j5srdawxwej8tk3cw8026vyf3e9phgd244g6pre63y64qjlxszps3fpvzn",
+        "default": "aura1hhl3a2vmuq9skhwd4m9r9yzgml5dt2sgfvjpmh0x0g4vct03h0hs5lgmjh"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
